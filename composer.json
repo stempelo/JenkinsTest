@@ -1,0 +1,19 @@
+{
+    "name": "mboffo/jenkins-test",
+    "description": "Test Jenkins",
+    "type": "project",
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Matteo Boffo aka stempelo",
+            "email": "matteo.boffo@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^10.2"
+    }
+}
